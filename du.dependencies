@@ -38,10 +38,5 @@
     "repository": "DirtyUnicorns/android_external_stlport",
     "target_path": "external/stlport",
     "branch": "n7x-caf"
-  },
-  {
-    "repository": "LineageOS/android_hardware_qcom_wlan",
-    "target_path": "hardware/qcom/wlan-caf",
-    "branch": "cm-14.1-caf"
   }
 ]
