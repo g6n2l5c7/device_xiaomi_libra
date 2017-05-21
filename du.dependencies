@@ -2,7 +2,7 @@
   {
     "repository": "Demon000/kernel_xiaomi_libra",
     "target_path": "kernel/xiaomi/libra",
-    "branch": "cm-14.1"
+    "branch": "n7.1"
   },
   {
     "repository": "DirtyUnicorns/android_vendor_xiaomi",
