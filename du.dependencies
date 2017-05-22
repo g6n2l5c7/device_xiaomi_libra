@@ -5,9 +5,9 @@
     "branch": "n7.1"
   },
   {
-    "repository": "DirtyUnicorns/android_vendor_xiaomi",
+    "repository": "csolanol/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "n7.1"
+    "branch": "n7.1-miui"
   },
   {
     "repository" : "DirtyUnicorns/android_system_qcom",
